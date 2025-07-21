@@ -21,7 +21,7 @@ SHEET_NAME = "BotData"
 logging.basicConfig(level=logging.INFO)
 
 # ---------- Apollo Mock Search Function ----------
-# Replace your existing search_apollo function with this 👇
+
 MOCK_API_URL = "https://687e15c0c07d1a878c3135af.mockapi.io/people"  # Replace with your real MockAPI endpoint
 
 def search_apollo(query):
