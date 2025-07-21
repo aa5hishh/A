@@ -22,7 +22,7 @@ logging.basicConfig(level=logging.INFO)
 
 # ---------- Apollo Mock Search Function ----------
 
-MOCK_API_URL = "https://687e15c0c07d1a878c3135af.mockapi.io/people"  
+MOCK_API_URL = ""  
 
 def search_apollo(query):
     try:
