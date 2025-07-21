@@ -13,7 +13,7 @@ import speech_recognition as sr
 from pydub import AudioSegment
 
 # Set your tokens and paths
-TELEGRAM_BOT_TOKEN = "8087239641:AAFq4VXBwKbfY0_5RjmZKXG-VwGNM3Yn4ZA"
+TELEGRAM_BOT_TOKEN = ""
 GOOGLE_CREDENTIALS = "credentials.json"
 SHEET_NAME = "BotData"
 
